@@ -106,7 +106,7 @@ bash simulations/linux/SierpinskiFractal.bash
 
 ## 🤝 Contributing
 
-See `CONTRIBUTION.md` for guidelines.  
+See `CONTRIBUTING.md` for guidelines.  
 We welcome new scripts, improvements, and documentation!
 
 ---
